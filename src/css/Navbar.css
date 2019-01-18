@@ -1,0 +1,31 @@
+.sidenav a{
+  position: fixed;
+  left:-95px;
+  transition: 0.3s;
+  padding: 15px;
+  width:120px;
+  text-decoration: none;
+  font-size:20px;
+  color:white;
+  border-right: 5px solid white;
+  z-index: 10;
+}
+.sidenav a:hover {
+  left: 0;
+}
+.sidenav1 {
+  top:100px;
+  background: -webkit-linear-gradient(right, rgba(255, 255, 255, 0.1), rgb(97, 218, 255))
+}
+.sidenav2 {
+  top:165px;
+  background: -webkit-linear-gradient(right, rgba(255, 255, 255, 0.1), rgb(97, 218, 255))
+}
+.sidenav3{
+  top:230px;
+  background: -webkit-linear-gradient(right, rgba(255, 255, 255, 0.1), rgb(97, 218, 255))
+}
+.sidenav4{
+  top:295px;
+  background: -webkit-linear-gradient(right, rgba(255, 255, 255, 0.1), rgb(97, 218, 255))
+}

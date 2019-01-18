@@ -1,0 +1,18 @@
+.box{
+    background: rgba(163, 209, 221, 0.6);
+    padding: 120px;
+}
+a{
+    color: rgb(160, 65, 65);
+    text-decoration:none;
+}
+.timestyle{
+    color: rgb(158, 62, 62);
+    margin:1em;
+}
+p{
+    margin:1em;
+}
+.line{
+    text-decoration: none;
+}
